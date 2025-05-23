@@ -1,4 +1,4 @@
-# Airflow ETL Pipeline Project
+# Airflow ETL Pipeline Project using AWS
 
 This project demonstrates how to create and run an ETL (Extract, Transform, Load) pipeline using **Apache Airflow**. The DAG (`churn_dag.py`) runs a basic workflow for churn data processing, orchestrated through the Airflow UI, and deployed using **AWS EC2** and **S3**. Screenshots are included to visually support each step of the process.
 
