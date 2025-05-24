@@ -17,7 +17,7 @@ This project demonstrates how to create and run an ETL (Extract, Transform, Load
 
 This screenshot shows the DAG in the Airflow dashboard after being successfully deployed and triggered.
 
-![Airflow Dashboard](airflow-dashboard.png)
+![Airflow Dashboard](images/airflow-dashboard.png)
 
 ---
 
@@ -25,7 +25,7 @@ This screenshot shows the DAG in the Airflow dashboard after being successfully 
 
 This screenshot captures the CLI (command-line interface) output from the Airflow terminal while running the DAG.
 
-![Airflow Terminal](airflow-termina.png)
+![Airflow Terminal](images/airflow-termina.png)
 
 ---
 
@@ -33,7 +33,7 @@ This screenshot captures the CLI (command-line interface) output from the Airflo
 
 Here is a snapshot of the DAG and ETL code shown in the development environment.
 
-![Code](code.png)
+![Code](images/code.png)
 
 ---
 
@@ -41,7 +41,7 @@ Here is a snapshot of the DAG and ETL code shown in the development environment.
 
 Screenshot of the AWS EC2 instance where Airflow was hosted. The EC2 console shows instance details such as status and type.
 
-![EC2](ec2.png)
+![EC2](images/ec2.png)
 
 ---
 
@@ -49,7 +49,7 @@ Screenshot of the AWS EC2 instance where Airflow was hosted. The EC2 console sho
 
 This screenshot shows the processed churn data (after ETL) saved locally or sent to S3 for storage.
 
-![Final Output Data](final-data.png)
+![Final Output Data](images/final-data.png)
 
 ---
 
@@ -57,7 +57,7 @@ This screenshot shows the processed churn data (after ETL) saved locally or sent
 
 Depicts the S3 bucket used to store intermediate or final output from the ETL pipeline.
 
-![S3 Bucket](s3.png)
+![S3 Bucket](images/s3.png)
 
 ---
 ---
